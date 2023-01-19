@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&display=swap">
+  <title>Document</title>
+  <style>
+    body {
+      font-family: 'Roboto', serif;
+    }
+  </style>
+</head>
+
+<body>
+  <section>
+    <h1>
+      Книги из фетра ручной работы
+      </h2>
+      <p>
+        Идея нашего проекта - сделать интернет-магазин для продажи готовых книг из фетра ручной работы и выкройки для
+        самостоятельного изготовления книг. Сайт с современным, приятным дизайном и продуманным интерфейсом.
+      </p>
+      <hr>
+  </section>
+  <section>
+    <h2>
+      Артефакты проекта
+    </h2>
+    <ul>
+      <li><a href="http://spelenok_book.tilda.ws/">Концепция проекта</a></li>
+      <li>User story</li>
+      <li>Структура сайта</li>
+      <li>Пользовательский бриф</li>
+      <li>Клиентский бриф</li>
+    </ul>
+  </section>
+  <section>
+    <h2>
+      Команда проекта
+    </h2>
+    <ol>
+      <li>Якубова Юлия - <small>Менеджер</small></li>
+      <li>Карпова Юлия - <small>Разработчик</small></li>
+      <li>Юлия Симутис - <small>Разработчик</small></li>
+      <li>Дунаева Ксенья - <small>Аналитик</small></li>
+      <li>Михайлова Ульяна - <small>Аналитик</small></li>
+      <li>Бруцких Лиана - <small>Аналитик</small></li>
+      <li>Тамара - <small>Дизайнер</small></li>
+    </ol>
+  </section>
+  <section>
+    <h2>
+      Статус проекта
+    </h2>
+    <p>
+      Проект покинул заказчик и часть команды
+    </p>
+    <img src="https://i.ytimg.com/vi/izFACT-l41Y/hqdefault.jpg">
+  </section>
+</body>
+
+</html>
